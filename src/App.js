@@ -14,7 +14,7 @@ import spice_banner from "./Components/Asset/banner_spice.jpg";
 function App() {
   return (
     <div>
-      <BrowserRouter basename="/">
+      <BrowserRouter basename="/la-boutique-x">
         <Navbar />
         <Routes>
           <Route path="/" element={<Shop />} />
