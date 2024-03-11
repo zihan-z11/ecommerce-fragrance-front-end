@@ -145,3 +145,46 @@
       left: 60px;
     }
 }  
+
+@media screen and (max-width: 500px) {
+  .navbar {
+    flex-direction: column;
+    height: 60px;
+    padding: 10px;
+    position: fixed;
+  }
+  
+  .nav-logo p {
+    margin-top: 10px;
+    font-size: 25px;
+  }
+  .mobile-cart-group img {
+    filter: invert(100%);
+    margin-left: 20px;
+    width: 35px;
+  }
+  .mobile-login-cart button {
+    width: 70px;
+    height: 40px;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    color: black;
+  }
+  .mobile-login-cart button:hover {
+    background: white;
+    color: black;
+    cursor: pointer;
+  }
+  .mobile-cart-group {
+    margin-top: 10px;
+    transform: scale(80%);
+  }
+  .mobile-cart-count {
+    color: white;
+    position: relative;
+    top: -60px;
+    left: 60px;
+  }
+}  
