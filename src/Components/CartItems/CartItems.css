@@ -191,13 +191,13 @@
     }
     .cartitems-promobox {
         width: auto;
-        max-width: 300px;
+        max-width: fit-content;
     }
     .cartitems-promobox input {
-        width: 100%;
+        width: 80px;
     }
     .cartitems-promobox button {
-        width: 120px;
-        margin-left: -125px;
+        width: 60px;
+        margin-left: 80px;
     }
 }

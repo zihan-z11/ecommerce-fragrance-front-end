@@ -37,9 +37,7 @@ const Navbar = () => {
       </ul>
       <div className='nav-logo'>
         <p onClick={()=>{setMenu('shop')}}>
-          <Link to='/' style={{ textDecoration: 'none', color: 'white' }}>
-          La Boutique X
-          </Link>
+          <Link to='/' style={{ textDecoration: 'none', color: 'white' }}>La Boutique X</Link>
         </p>
       </div>
       <div className='nav-login-cart'>

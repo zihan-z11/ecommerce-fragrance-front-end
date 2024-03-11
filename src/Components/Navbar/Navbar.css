@@ -16,14 +16,13 @@
 .nav-logo {
     position: absolute;
     left: 50%;
-    align-items: center;
     gap: 10px;
     transform: translate(-50%, 0%);
 }
 
 .nav-logo p {
     color: white;
-    font-size: 38px;
+    font-size: 40px;
     font-weight: 600;
 }
 
@@ -164,7 +163,7 @@
     width: 35px;
   }
   .mobile-login-cart button {
-    width: 70px;
+    width: 80px;
     height: 40px;
     margin-top: 0px;
     margin-left: 10px;
