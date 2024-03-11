@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/la-boutique-x/static/css/main.0b964d69.css",
+    "main.css": "/la-boutique-x/static/css/main.232ead96.css",
     "main.js": "/la-boutique-x/static/js/main.0773a377.js",
     "static/media/floral12.jpg": "/la-boutique-x/static/media/floral12.b0f300449831f757071b.jpg",
     "static/media/banner_floral.jpg": "/la-boutique-x/static/media/banner_floral.b6834eae2da6d36411a7.jpg",
@@ -43,11 +43,11 @@
     "static/media/spice1.jpg": "/la-boutique-x/static/media/spice1.aa2be603c59cde3990be.jpg",
     "static/media/wood8.jpg": "/la-boutique-x/static/media/wood8.f212c2b497155de6ebe2.jpg",
     "index.html": "/la-boutique-x/index.html",
-    "main.0b964d69.css.map": "/la-boutique-x/static/css/main.0b964d69.css.map",
+    "main.232ead96.css.map": "/la-boutique-x/static/css/main.232ead96.css.map",
     "main.0773a377.js.map": "/la-boutique-x/static/js/main.0773a377.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b964d69.css",
+    "static/css/main.232ead96.css",
     "static/js/main.0773a377.js"
   ]
 }
