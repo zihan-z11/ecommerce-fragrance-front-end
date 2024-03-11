@@ -185,19 +185,12 @@
         font-size: 25px;
     }
     .cartitems-total button {
-        max-width: 200px;
+        max-width: 150px;
         height: 45px;
         font-size: 13px;
     }
-    .cartitems-promobox {
-        width: auto;
-        max-width: fit-content;
-    }
-    .cartitems-promobox input {
-        width: 80px;
-    }
-    .cartitems-promobox button {
-        width: 60px;
-        margin-left: 80px;
+    .cartitems-promocode {
+        display: none;
+        margin-bottom: 100px;
     }
 }
